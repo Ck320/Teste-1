@@ -12,6 +12,8 @@ import java.nio.channels.ReadableByteChannel;
  * Classe principal
  * 
  * A versão do arquivo é detectada baseada na data (YYYYMM)
+ * 
+ * Todos os arquivos resultantes deste codigo foram criados na pasta do projeto
  */
 
 public class Downloader
